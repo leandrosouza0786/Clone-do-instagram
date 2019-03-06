@@ -3,4 +3,4 @@ ng serve
 
 # Instagramclone
 
-Esse projeto foi desenvolvido exclusivamente para aprendizado.
+Clone do insta web, clone do app presente nesse git =]'
